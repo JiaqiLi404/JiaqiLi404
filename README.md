@@ -29,7 +29,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240"/>
 </div>
 
-<h2>👨🏻‍💻 About Me</h2>
+<h3>👨🏻‍💻 About Me</h3>
 
 - 🔭 PhD candidate at **University of Warwick**
 - 🎓 Research on **Computer Vision** & **Multimodal Learning**
@@ -37,7 +37,7 @@
 
 <br/>
 
-<h2>✨ What I’m into</h2>
+<h3>✨ What I’m into</h3>
 
 <ul>
   <li>📷 Video understanding, video temporal grounding</li>
