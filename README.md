@@ -49,12 +49,6 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JiaqiLi404&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-
-  <!-- Top Langs -->
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaqiLi404&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800" />
 
 
 </div>
